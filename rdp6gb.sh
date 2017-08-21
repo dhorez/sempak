@@ -65,7 +65,10 @@ wget https://github.com/dhorez/sempak/raw/master/Thormotorcoach.sh
 chmod +x Thormotorcoach.sh
 wget https://github.com/dhorez/sempak/raw/master/Victory.sh
 chmod +x Victory.sh
-
+wget https://raw.githubusercontent.com/mazbron/x/master/chr.sh
+chmod +x chr.sh
+wget https://raw.githubusercontent.com/mazbron/x/master/KILL.sh
+chmod +x KILL.sh
 #apt-get install proxychains -y
 #sleep 1
 #apt-get install sl -y
