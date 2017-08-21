@@ -61,84 +61,10 @@ sleep 2
 cd
 mkdir Desktop
 cd Desktop
-#wget https://raw.githubusercontent.com/mazbron/x/master/ff.sh
-#chmod +x ff.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/expert.sh
-#chmod +x expert.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/85.sh
-#chmod +x 85.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/drive2.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/drive.sh
-chmod +x drive.sh
-chmod +x drive2.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/tek.sh
-#chmod +x tek.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/allsov.sh
-#chmod +x allsov.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/tundra.sh
-#chmod +x tundra.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/every.sh
-#chmod +x every.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/expertcavixo.sh
-#chmod +x expertcavixo.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/chr.sh
-chmod +x chr.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/automo.sh
-#chmod +x automo.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/nomadic.sh
-chmod +x nomadic.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/hipi.sh
-chmod +x hipi.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/left.sh
-chmod +x left.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/asia.sh
-chmod +x asia.sh
-wget https://github.com/mazbron/x/raw/master/dna.sh
-chmod +x dna.sh
-#wget https://github.com/mazbron/x/raw/master/eka.sh
-#chmod +x eka.sh
-#wget https://github.com/mazbron/x/raw/master/boys.sh
-#chmod +x boys.sh
-wget https://github.com/mazbron/x/raw/master/Smash.sh
-chmod +x Smash.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/smash.sh
-#chmod +x smash.sh
-wget https://github.com/mazbron/x/raw/master/Thecraftedlife.sh
-chmod +x Thecraftedlife.sh
-#wget https://raw.githubusercontent.com/mazbron/x/master/thecraft.sh
-#chmod +x thecraft.sh
-wget https://github.com/mazbron/x/raw/master/pb.sh
-chmod +x pb.sh
-wget https://github.com/mazbron/x/raw/master/inspiration.sh
-chmod +x inspiration.sh
-wget https://github.com/mazbron/x/raw/master/gm.sh
-chmod +x gm.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/GDJ.sh
-chmod +x GDJ.sh
-wget https://github.com/mazbron/x/raw/master/autolist.sh
-chmod +x autolist.sh
-#wget https://github.com/mazbron/x/raw/master/autoevo.sh
-#chmod +x autoevo.sh
-wget https://github.com/mazbron/x/raw/master/caring.sh
-chmod +x caring.sh
-#wget https://github.com/mazbron/x/raw/master/remove.sh
-#chmod +x remove.sh
-wget https://github.com/mazbron/x/raw/master/Pulse.sh
-chmod +x Pulse.sh
-wget https://github.com/mazbron/x/raw/master/AOL.sh
-chmod +x AOL.sh
-wget https://github.com/mazbron/x/raw/master/300.sh
-chmod +x 300.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/KILL.sh
-chmod +x KILL.sh
-wget https://github.com/mazbron/x/raw/master/PLS.sh
-chmod +x PLS.sh
-wget https://github.com/mazbron/x/raw/master/Angular.sh
-chmod +x Angular.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/Bike.sh
-chmod +x Bike.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/Stance.sh
-chmod +x Stance.sh
+wget https://github.com/dhorez/sempak/raw/master/Thormotorcoach.sh
+chmod +x Thormotorcoach.sh
+wget https://github.com/dhorez/sempak/raw/master/Victory.sh
+chmod +x Victory.sh
 
 #apt-get install proxychains -y
 #sleep 1
@@ -149,7 +75,7 @@ cd /etc
 #mv proxychains.conf proxychains.conf.bak
 mv hosts hosts.bak
 #wget http://sovrncpm.com/proxychains.conf
-wget https://github.com/mazbron/x/raw/master/hosts
+wget https://github.com/dhorez/sempak/raw/master/hosts
 #nano /etc/hosts
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
 echo Ceeeers... MAZBRON.com _ BESTSEOTOOL.co
