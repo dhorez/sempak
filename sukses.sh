@@ -42,6 +42,21 @@ wget 149.56.111.62/ch2.tar.gz
 tar -xvf ch2.tar.gz
 wget https://github.com/mazbron/x/raw/master/Pulse.tar.gz
 tar -xvf Pulse.tar.gz
+#wget 144.217.92.64/ch-12-pf.tar.gz
+#tar -xvf ch-12-pf.tar.gz
+#cp -r chrome /home/2
+#cp -r chrome /home/3
+#cp -r chrome /home/4
+#cp -r chrome /home/5
+#cp -r chrome /home/6
+#cp -r chrome /home/7
+#cp -r chrome /home/8
+#cp -r chrome /home/9
+#cp -r chrome /home/10
+#cp -r chrome /home/11
+#cp -r chrome /home/12
+#wget https://raw.githubusercontent.com/mazbron/x/master/every.tar.gz
+#tar -xvf every.tar.gz
 sleep 2
 cd
 mkdir Desktop
@@ -50,6 +65,12 @@ wget https://github.com/dhorez/sempak/raw/master/Thormotorcoach.sh
 chmod +x Thormotorcoach.sh
 wget https://github.com/dhorez/sempak/raw/master/Victory.sh
 chmod +x Victory.sh
+
+#apt-get install proxychains -y
+#sleep 1
+#apt-get install sl -y
+#sleep 1
+#sl -l
 cd /etc
 #mv proxychains.conf proxychains.conf.bak
 mv hosts hosts.bak
